@@ -1,4 +1,4 @@
-package com.radarapp03215;
+package com.radarapp0test;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -11,6 +11,7 @@ public class MainActivity extends ReactActivity {
   @Override
     protected void onCreate(Bundle savedInstanceState) {
       super.onCreate(null);
+      // FacebookSdk.sdkInitialize(getApplicationContext());
     }
 
   /**

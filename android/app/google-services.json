@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086057243801",
+    "project_id": "arslan-4dc9c",
+    "storage_bucket": "arslan-4dc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086057243801:android:60d730e601213b3fc3c408",
+        "android_client_info": {
+          "package_name": "com.radarapp0test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086057243801-hdglulsadgpjkr3h6sicb32odkkvria6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radarapp0test",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1086057243801-gqhnvmopkt681asff3cosphfn4idaedt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfQognwe4SJFx3_JdknqqY9bDDuMmRRhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086057243801-gqhnvmopkt681asff3cosphfn4idaedt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

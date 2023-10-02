@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">radarapp03215</string>
+    <string name="facebook_app_id">1306494930033830</string>
+    <string name="facebook_client_token">9c89b056acc22f87cf9d3938a1deb029</string>
 </resources>

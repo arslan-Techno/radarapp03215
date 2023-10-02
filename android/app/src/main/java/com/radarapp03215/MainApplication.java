@@ -1,4 +1,4 @@
-package com.radarapp03215;
+package com.radarapp0test;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
